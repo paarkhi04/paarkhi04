@@ -18,7 +18,7 @@
 - 🤝 Team Vibes: Collaborating or solo, I ship projects that spark joy.
 - 🚀 Tech Explorer: From C++ to Tailwind, I’m always leveling up my stack.
 - 😎 User-First Maverick: I build apps that feel intuitive, fast, and downright cool.
-- 📫 Reach me at: [sidpvt.2003@gmail.com](mailto:sidpvt.2003@gmail.com)
+- 📫 Reach me at: [paarkhi16@gmail.com](mailto:paarkhi16@gmail.com)
 - ⚡ Fun fact: Prefer building cute stuff over anything :)
 
 
