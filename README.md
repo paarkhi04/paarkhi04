@@ -69,7 +69,7 @@
 
 - 🧩 [Kitaboo](https://github.com/pragya0129/Kitaboo) – A PLatform that helps to master placement preparation.
 - 🌍 [Chatapp](https://github.com/paarkhi04/Chat-Application) – Online Real time Chatting Application.
-- 🛒 [E-commerce Website](https://github.com/paarkhi04/E-commerce_website)Seamless shopping, 📦 fast delivery, 🌟 curated products, 💻 user-friendly platform.
+- 🛒 [E-commerce Website](https://github.com/paarkhi04/E-commerce_website) - Seamless shopping, 📦 fast delivery, 🌟 curated products, 💻 user-friendly platform.
 
 ---
 
